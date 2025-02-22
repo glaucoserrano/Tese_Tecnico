@@ -1,0 +1,17 @@
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\InfraEstrutura.deps.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\InfraEstrutura.runtimeconfig.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\InfraEstrutura.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\InfraEstrutura.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\Dominio.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\bin\Debug\net8.0\Dominio.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.csproj.AssemblyReference.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.AssemblyInfoInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.AssemblyInfo.cs
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.csproj.CoreCompileInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEst.3F5DDF58.Up2Date
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\refint\InfraEstrutura.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.genruntimeconfig.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\ref\InfraEstrutura.dll

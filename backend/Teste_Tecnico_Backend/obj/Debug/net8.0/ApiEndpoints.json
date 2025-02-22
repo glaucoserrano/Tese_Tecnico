@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Teste_Tecnico_Backend.Controllers.UserController",
+    "Method": "RegisterUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Comunicacao.Response.ResponseUserJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  }
+]

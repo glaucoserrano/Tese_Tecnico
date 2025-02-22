@@ -1,0 +1,11 @@
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\bin\Debug\net8.0\Dominio.deps.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\bin\Debug\net8.0\Dominio.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\bin\Debug\net8.0\Dominio.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\Dominio.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Dominio\obj\Debug\net8.0\ref\Dominio.dll

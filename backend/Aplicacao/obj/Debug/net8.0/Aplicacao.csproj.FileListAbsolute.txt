@@ -1,0 +1,15 @@
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Aplicacao.deps.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Aplicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Aplicacao.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Comunicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Comunicacao.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.AssemblyInfo.cs
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.csproj.Up2Date
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\refint\Aplicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\ref\Aplicacao.dll

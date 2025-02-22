@@ -1,0 +1,11 @@
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\bin\Debug\net8.0\Comunicacao.deps.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\bin\Debug\net8.0\Comunicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\bin\Debug\net8.0\Comunicacao.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.AssemblyInfoInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.AssemblyInfo.cs
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.csproj.CoreCompileInputs.cache
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\refint\Comunicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\ref\Comunicacao.dll
