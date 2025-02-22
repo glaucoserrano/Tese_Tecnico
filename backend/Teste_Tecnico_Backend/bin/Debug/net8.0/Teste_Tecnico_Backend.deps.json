@@ -624,7 +624,8 @@
       "System.Threading.Channels/6.0.0": {},
       "Aplicacao/1.0.0": {
         "dependencies": {
-          "Comunicacao": "1.0.0"
+          "Comunicacao": "1.0.0",
+          "Dominio": "1.0.0"
         },
         "runtime": {
           "Aplicacao.dll": {

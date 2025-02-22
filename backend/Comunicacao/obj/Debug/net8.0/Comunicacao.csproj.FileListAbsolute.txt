@@ -9,3 +9,4 @@ C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.d
 C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\refint\Comunicacao.dll
 C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.pdb
 C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\ref\Comunicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Comunicacao\obj\Debug\net8.0\Comunicacao.sourcelink.json

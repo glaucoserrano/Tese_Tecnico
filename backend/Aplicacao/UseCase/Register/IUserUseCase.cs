@@ -1,6 +1,6 @@
 ﻿using Comunicacao.Response;
 
-namespace Aplicacao.UseCase
+namespace Aplicacao.UseCase.Register
 {
     public interface IUserUseCase
     {

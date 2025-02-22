@@ -124,3 +124,5 @@ C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\bin\Debug\net8.0\Dom
 C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\bin\Debug\net8.0\InfraEstrutura.dll
 C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\bin\Debug\net8.0\InfraEstrutura.pdb
 C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\bin\Debug\net8.0\Dominio.pdb
+C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\obj\Debug\net8.0\Teste_Tecnico_Backend.sourcelink.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\Teste_Tecnico_Backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

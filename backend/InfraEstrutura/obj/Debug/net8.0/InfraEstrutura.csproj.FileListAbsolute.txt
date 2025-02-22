@@ -15,3 +15,4 @@ C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\refint\Inf
 C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.pdb
 C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.genruntimeconfig.cache
 C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\ref\InfraEstrutura.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\InfraEstrutura\obj\Debug\net8.0\InfraEstrutura.sourcelink.json

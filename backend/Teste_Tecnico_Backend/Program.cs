@@ -1,5 +1,8 @@
-using Aplicacao.UseCase;
+using Aplicacao.UseCase.Register;
+using Aplicacao.UseCase.Report;
+using Aplicacao.UseCase.Update;
 using Comunicacao.Services;
+using Dominio.Repositories;
 using InfraEstrutura.DataAcess;
 using InfraEstrutura.DataAcess.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +25,8 @@ builder.Services.AddHttpClient<RandomUserServices>();
 
 builder.Services.AddScoped<IUserUseCase, UserUseCase>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserReportsUseCase, UserReportsUseCase>();
+builder.Services.AddScoped<IUserUpdateUseCase, UserUpdateUseCase>();
 
 var app = builder.Build();
 

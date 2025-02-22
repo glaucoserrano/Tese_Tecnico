@@ -3,39 +3,27 @@
   "WorkspaceRootPath": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA654E7-4C11-4612-9BEE-131BEF099A32}|..\\InfraEstrutura\\InfraEstrutura.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\infraestrutura\\dataacess\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C7FC5E9-8A32-4273-B939-6EADB6193A2E}|..\\Dominio\\Dominio.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\dominio\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\teste_tecnico_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA654E7-4C11-4612-9BEE-131BEF099A32}|..\\InfraEstrutura\\InfraEstrutura.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\infraestrutura\\dataacess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA654E7-4C11-4612-9BEE-131BEF099A32}|..\\InfraEstrutura\\InfraEstrutura.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\infraestrutura\\dataacess\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6089C1-A7DE-47DD-BF46-43495693D06A}|..\\Comunicacao\\Comunicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\comunicacao\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4D82A55-CB67-4A89-881F-793CBCCBDA9E}|..\\Aplicacao\\Aplicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\aplicacao\\usecase\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6089C1-A7DE-47DD-BF46-43495693D06A}|..\\Comunicacao\\Comunicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\comunicacao\\services\\randomuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4D82A55-CB67-4A89-881F-793CBCCBDA9E}|..\\Aplicacao\\Aplicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\aplicacao\\usecase\\report\\userreportsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\teste_tecnico_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4D82A55-CB67-4A89-881F-793CBCCBDA9E}|..\\Aplicacao\\Aplicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\aplicacao\\usecase\\iuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4D82A55-CB67-4A89-881F-793CBCCBDA9E}|..\\Aplicacao\\Aplicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\aplicacao\\usecase\\update\\iuserupdateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C6089C1-A7DE-47DD-BF46-43495693D06A}|..\\Comunicacao\\Comunicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\comunicacao\\response\\responseuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4D82A55-CB67-4A89-881F-793CBCCBDA9E}|..\\Aplicacao\\Aplicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\aplicacao\\usecase\\update\\userupdateusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA654E7-4C11-4612-9BEE-131BEF099A32}|..\\InfraEstrutura\\InfraEstrutura.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\infraestrutura\\dataacess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6089C1-A7DE-47DD-BF46-43495693D06A}|..\\Comunicacao\\Comunicacao.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\comunicacao\\request\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|c:\\teste_tecnico\\tese_tecnico\\backend\\teste_tecnico_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10AD695-2FAD-477B-BBC7-975CE74E77B5}|Teste_Tecnico_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,34 +33,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\InfraEstrutura\\DataAcess\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "..\\InfraEstrutura\\DataAcess\\Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T14:16:13.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "..\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "..\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T14:15:46.813Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -80,116 +42,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserDbContext.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\UserDbContext.cs",
-              "RelativeDocumentMoniker": "..\\InfraEstrutura\\DataAcess\\UserDbContext.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\UserDbContext.cs",
-              "RelativeToolTip": "..\\InfraEstrutura\\DataAcess\\UserDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwAoAAAAcAAAAAAAAAA==",
+              "Title": "UserReportsUseCase.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Report\\UserReportsUseCase.cs",
+              "RelativeDocumentMoniker": "..\\Aplicacao\\UseCase\\Report\\UserReportsUseCase.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Report\\UserReportsUseCase.cs",
+              "RelativeToolTip": "..\\Aplicacao\\UseCase\\Report\\UserReportsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:56:29.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Dominio\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\Dominio\\Entities\\User.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Dominio\\Entities\\User.cs",
-              "RelativeToolTip": "..\\Dominio\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:47:22.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\DTO\\UserDTO.cs",
-              "RelativeDocumentMoniker": "..\\Comunicacao\\DTO\\UserDTO.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\DTO\\UserDTO.cs",
-              "RelativeToolTip": "..\\Comunicacao\\DTO\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:09:36.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RandomUserServices.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Services\\RandomUserServices.cs",
-              "RelativeDocumentMoniker": "..\\Comunicacao\\Services\\RandomUserServices.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Services\\RandomUserServices.cs",
-              "RelativeToolTip": "..\\Comunicacao\\Services\\RandomUserServices.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T13:07:06.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:55:21.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ResponseUserJson.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Response\\ResponseUserJson.cs",
-              "RelativeDocumentMoniker": "..\\Comunicacao\\Response\\ResponseUserJson.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Response\\ResponseUserJson.cs",
-              "RelativeToolTip": "..\\Comunicacao\\Response\\ResponseUserJson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:45:28.254Z",
+              "WhenOpened": "2025-02-22T17:36:05.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserUseCase.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\UserUseCase.cs",
-              "RelativeDocumentMoniker": "..\\Aplicacao\\UseCase\\UserUseCase.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\UserUseCase.cs",
-              "RelativeToolTip": "..\\Aplicacao\\UseCase\\UserUseCase.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:23:14.088Z",
+              "WhenOpened": "2025-02-22T17:24:04.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserUseCase.cs",
-              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\IUserUseCase.cs",
-              "RelativeDocumentMoniker": "..\\Aplicacao\\UseCase\\IUserUseCase.cs",
-              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\IUserUseCase.cs",
-              "RelativeToolTip": "..\\Aplicacao\\UseCase\\IUserUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserUpdateUseCase.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Update\\UserUpdateUseCase.cs",
+              "RelativeDocumentMoniker": "..\\Aplicacao\\UseCase\\Update\\UserUpdateUseCase.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Update\\UserUpdateUseCase.cs",
+              "RelativeToolTip": "..\\Aplicacao\\UseCase\\Update\\UserUpdateUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T12:54:56.169Z",
+              "WhenOpened": "2025-02-22T17:23:34.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "IUserUpdateUseCase.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Update\\IUserUpdateUseCase.cs",
+              "RelativeDocumentMoniker": "..\\Aplicacao\\UseCase\\Update\\IUserUpdateUseCase.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Aplicacao\\UseCase\\Update\\IUserUpdateUseCase.cs",
+              "RelativeToolTip": "..\\Aplicacao\\UseCase\\Update\\IUserUpdateUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:23:24.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Request\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "..\\Comunicacao\\Request\\RequestUserJson.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Request\\RequestUserJson.cs",
+              "RelativeToolTip": "..\\Comunicacao\\Request\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T17:21:08.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\InfraEstrutura\\DataAcess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAxwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:15:46.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Teste_Tecnico_Backend\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T12:20:16.145Z",
               "EditorCaption": ""

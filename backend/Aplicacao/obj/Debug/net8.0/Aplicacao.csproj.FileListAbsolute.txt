@@ -13,3 +13,6 @@ C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.dll
 C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\refint\Aplicacao.dll
 C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.pdb
 C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\ref\Aplicacao.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\obj\Debug\net8.0\Aplicacao.sourcelink.json
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Dominio.dll
+C:\Teste_Tecnico\Tese_Tecnico\backend\Aplicacao\bin\Debug\net8.0\Dominio.pdb

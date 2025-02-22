@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DataAcess\Repositories\IUserRepository.cs" />
     <Compile Remove="Migrations\20250222144035_InitialCreate.cs" />
     <Compile Remove="Migrations\20250222144035_InitialCreate.Designer.cs" />
     <Compile Remove="Migrations\UserDbContextModelSnapshot.cs" />

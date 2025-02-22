@@ -16,6 +16,7 @@ namespace InfraEstrutura.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
+                .HasDefaultSchema("public")
                 .HasAnnotation("ProductVersion", "8.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
 
@@ -47,7 +48,7 @@ namespace InfraEstrutura.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("users");
+                    b.ToTable("users", "public");
                 });
 #pragma warning restore 612, 618
         }

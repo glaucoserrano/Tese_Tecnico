@@ -35,6 +35,9 @@
             "projectReferences": {
               "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Comunicacao.csproj": {
                 "projectPath": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Comunicacao\\Comunicacao.csproj"
+              },
+              "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Teste_Tecnico\\Tese_Tecnico\\backend\\Dominio\\Dominio.csproj"
               }
             }
           }
