@@ -15,10 +15,10 @@ Ferramentas: Visual Studio, DBeaver, Swagger (para testes da API)
 
 Funcionalidades Implementadas
 
-## Listar Usuários: Exibe todos os usuários cadastrados no banco.
-## Adicionar Usuário: Consome a API Ramdom User Generator e insere um novo usuário.
-## Editar Usuário: Permite modificar os dados de um usuário já cadastrado.
-## Persistência no Banco: Utiliza Entity Framework para salvar os dados no PostgreSQL.
+# Listar Usuários: Exibe todos os usuários cadastrados no banco.
+# Adicionar Usuário: Consome a API Ramdom User Generator e insere um novo usuário.
+# Editar Usuário: Permite modificar os dados de um usuário já cadastrado.
+# Persistência no Banco: Utiliza Entity Framework para salvar os dados no PostgreSQL.
 
 ### Como Rodar o Projeto
 
